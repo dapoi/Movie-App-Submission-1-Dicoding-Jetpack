@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie X Mob</string>
+    <string name="title">Movie X Mob</string>
+    <string name="movies">MOVIES</string>
+    <string name="tv_shows">TV SHOWS</string>
+    <string name="splash">Movie X Mob</string>
+</resources>
